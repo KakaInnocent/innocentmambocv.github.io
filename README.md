@@ -1,5 +1,3 @@
-# innocentmambocv.git
-hub.io
+# innocentmambocv.github.io
 
-Simple personal website 
-<\br> HTML and CSS 
+Simple personal website made with HTML and CSS 
